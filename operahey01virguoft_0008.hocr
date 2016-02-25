@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operahey01virguoft_0008.png"; bbox 0 0 1388 2418; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 345 2197 1019 2223">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 345 2197 1019 2223">
+     <span class='ocr_line' id='line_1_1' title="bbox 345 2197 1019 2223; baseline 0.001 -3"><span class='ocrx_word' id='word_1_1' title='bbox 345 2199 353 2220; x_wconf 96' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_2' title='bbox 371 2199 387 2221; x_wconf 63' lang='lat' dir='ltr'>X</span> <span class='ocrx_word' id='word_1_3' title='bbox 418 2199 509 2222; x_wconf 61' lang='lat' dir='ltr'>nris</span> <span class='ocrx_word' id='word_1_4' title='bbox 530 2199 636 2223; x_wconf 54' lang='lat' dir='ltr'>thum.</span> <span class='ocrx_word' id='word_1_5' title='bbox 671 2197 892 2222; x_wconf 59' lang='lat' dir='ltr'>lnwmmmn</span> <span class='ocrx_word' id='word_1_6' title='bbox 910 2197 1019 2221; x_wconf 55' lang='lat' dir='ltr'>humb.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
